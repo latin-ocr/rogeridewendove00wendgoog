@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rogeridewendove00wendgoog_0006.png"; bbox 0 0 3457 5887; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1278 1799 2496 1876">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1278 1799 2496 1876">
+     <span class='ocr_line' id='line_1_1' title="bbox 1278 1799 2496 1876; baseline -0.004 -11"><span class='ocrx_word' id='word_1_1' title='bbox 1278 1800 1633 1865; x_wconf 89' lang='lat' dir='ltr'>PHILIP</span> <span class='ocrx_word' id='word_1_2' title='bbox 1684 1799 2033 1876; x_wconf 80' lang='lat' dir='ltr'>PUSEY,</span> <span class='ocrx_word' id='word_1_3' title='bbox 2087 1800 2251 1874; x_wconf 77' lang='lat' dir='ltr'>EsQ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2311 1800 2496 1861; x_wconf 61' lang='lat' dir='ltr'><strong>MP.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1628 4517 2152 4633">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1628 4517 2152 4633">
+     <span class='ocr_line' id='line_1_2' title="bbox 1628 4517 2152 4633; baseline -0.006 -19"><span class='ocrx_word' id='word_1_5' title='bbox 1628 4517 1940 4614; x_wconf 48' lang='lat' dir='ltr'>Metfiber&#39;s</span> <span class='ocrx_word' id='word_1_6' title='bbox 1974 4559 2152 4633; x_wconf 65' lang='lat' dir='ltr'><strong>Copy.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3407 820 3438 2367">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3407 820 3438 2367">
+     <span class='ocr_line' id='line_1_3' title="bbox 3407 820 3438 2367; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 3427 2304 3432 2367; x_wconf 86' lang='lat'><strong>.—</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 3427 2254 3432 2263; x_wconf 95' lang='lat'>.</span> <span class='ocrx_word' id='word_1_9' title='bbox 3421 1304 3438 2219; x_wconf 59' lang='lat'><strong>...—--——--.*-———...-</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 3407 820 3432 1249; x_wconf 49' lang='lat' dir='ltr'>‚du-...—</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
